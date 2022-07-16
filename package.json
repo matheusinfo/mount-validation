@@ -1,14 +1,14 @@
 {
-  "name": "validation-builder",
+  "name": "mount-validation",
   "version": "1.0.0",
-  "description": "A simple but powerful validation builder for Node.js",
+  "description": "A simple but powerful mount-validation for Node.js",
   "main": "index.js",
   "type": "module",
   "author": "@matheusinfo",
-  "keywords": ["validation", "builder", "node", "js", "javascript"],
+  "keywords": ["validation", "mount", "node", "js", "javascript"],
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matheusinfo/validation-builder"
+    "url": "https://github.com/matheusinfo/mount-validation"
   }
 }

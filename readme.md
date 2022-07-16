@@ -1,4 +1,4 @@
-# **Validation Builder**
+# **Mount Validation**
 
 Simple npm package with some validations, without any external dependency (v1.0.0).
 
@@ -42,4 +42,4 @@ Validations implemetaded:
 => UrlValidation
 ```
 
-package on npm (https://www.npmjs.com/package/validation-builder) by @matheusinfo
+package on npm (https://www.npmjs.com/package/mount-validation) by @matheusinfo
