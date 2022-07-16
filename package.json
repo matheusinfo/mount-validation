@@ -1,6 +1,6 @@
 {
   "name": "mount-validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple but powerful mount-validation for Node.js",
   "main": "index.js",
   "type": "module",

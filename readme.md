@@ -1,6 +1,6 @@
 # **Mount Validation**
 
-Simple npm package with some validations, without any external dependency (v1.0.1).
+Simple npm package with some validations, without any external dependency (v1.0.2).
 
 Example:
 ```js
@@ -19,7 +19,7 @@ Example:
   }
 ```
 
-Validations implemetaded:
+Validations implemented:
 ```txt
 => BeOneOfValidation
 
