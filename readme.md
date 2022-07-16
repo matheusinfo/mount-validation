@@ -2,11 +2,16 @@
 
 Simple npm package with some validations, without any external dependency (v1.0.2).
 
+Install:
+```shell
+  npm i mount-validation
+```
+
 Example:
 ```js
-  import { ValidatorBuilder, ValidatorComposite } from "validation-builder";
+  import { ValidatorBuilder, ValidatorComposite } from "mount-validation";
 
-  // Return the first error
+  // Return the first error (if have one or more errors)
   const error = ValidatorComposite.build([
     ...ValidatorBuilder.field('email', 'example-mail@mail.com').email().build(),
     ...ValidatorBuilder.field('name', 'example-name').minLength(3).build(),
