@@ -41,3 +41,5 @@ Validations implemetaded:
 
 => UrlValidation
 ```
+
+package on npm (https://www.npmjs.com/package/validation-builder) by @matheusinfo
