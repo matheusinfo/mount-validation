@@ -1,0 +1,10 @@
+{
+  "name": "validation-builder",
+  "version": "1.0.0",
+  "description": "A simple but powerful validation builder for Node.js",
+  "main": "index.js",
+  "type": "module",
+  "author": "@matheusinfo",
+  "keywords": ["validation", "builder", "node", "js", "javascript"],
+  "license": "ISC"
+}
