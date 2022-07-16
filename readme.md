@@ -1,6 +1,6 @@
 # **Mount Validation**
 
-Simple npm package with some validations, without any external dependency (v1.0.0).
+Simple npm package with some validations, without any external dependency (v1.0.1).
 
 Example:
 ```js
